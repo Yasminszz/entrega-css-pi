@@ -1,0 +1,36 @@
+.divA {
+    background-color: #194073; 
+    width: 100%;
+    height: 500px;
+}
+
+
+.divB {
+    background-color: #215BA6; 
+    height: 50%;
+    width: 100%;
+}
+
+
+.paragrafoC {
+    color: #000000; 
+    background-color: #BFC5D9; 
+    font-size: 30px; 
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.divD {
+    background-color: #163E8C; 
+    width: 100%;
+    height: 50vh;
+}
+
+
+.divE {
+    background-color: #051433; 
+    width: 75vw;
+    height: 50%;
+}
